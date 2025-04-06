@@ -1,5 +1,0 @@
-Zainab, 21, BSCS01, DSA|3.7, OOP|3.9, DBMS|3.6
-Hassan, 22, BSCS02, DLD|3.4, SE|3.2, AI|3.8
-Fatima, 20, BSCS03, PF|3.9, OOP|4.0, OS|3.5
-Usman, 23, BSCS04, CN|3.3, DBMS|3.4, WEB|3.6
-Areeba, 21, BSCS05, AI|3.9, ML|3.8, NLP|3.7
